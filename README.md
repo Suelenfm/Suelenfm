@@ -13,7 +13,7 @@
    
    **Módulo 2 - ANGULAR**
    
-#### Inicío - 2022 NOVEMBRO - CONCLUSÃO SETEMBRO 2023
+###### Inicío - 2022 NOVEMBRO - CONCLUSÃO SETEMBRO 2023
 _**Hard Skills**_
 ---
 
