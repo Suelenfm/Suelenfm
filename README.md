@@ -11,7 +11,7 @@
    
    **Módulo 3 - SPRING BOOT**
    
-   **Módulo 2 - ANGULAR**
+   **Módulo 4 - ANGULAR**
    
 ###### Inicío - 2022 NOVEMBRO - CONCLUSÃO SETEMBRO 2023
 _**Hard Skills**_
